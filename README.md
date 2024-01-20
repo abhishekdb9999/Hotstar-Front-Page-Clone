@@ -47,9 +47,9 @@ open index.html
 hotstar-front-page-clone/
 |-- index.html
 |-- css/
-|   |-- styles.css
+|   |-- hotstar.css
 |-- js/
-|   |-- scripts.js
+|   |-- hotstar.js
 |-- img/
 |   |-- (images used in the project)
 |-- README.md
