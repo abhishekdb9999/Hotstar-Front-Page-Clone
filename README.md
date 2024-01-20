@@ -65,8 +65,6 @@ Contributions are welcome! Follow these steps to contribute:
 4. Push to the branch: `git push origin feature-name`
 5. Create a pull request.
 
-Please follow the [code of conduct](CODE_OF_CONDUCT.md) and the [contribution guidelines](CONTRIBUTING.md).
-
 
 ## Contact
 
