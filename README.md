@@ -12,12 +12,11 @@ This project is a simple clone of the Hotstar front page using HTML, JavaScript,
 
 ## Table of Contents
 
-1. [Demo](#demo)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [File Structure](#file-structure)
-5. [Contributing](#contributing)
-6. [Contact](#contact)
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [File Structure](#file-structure)
+4. [Contributing](#contributing)
+5. [Contact](#contact)
 
 
 ## Installation
